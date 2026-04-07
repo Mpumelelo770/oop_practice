@@ -7,6 +7,5 @@ public class Main {
         Person p1 = new Person("Mpumelelo", 10);
         System.out.println(p1);
 
-
     }
 }
